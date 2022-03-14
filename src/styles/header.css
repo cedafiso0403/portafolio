@@ -1,0 +1,52 @@
+header{
+    padding-top: 1em;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: #151515;
+}
+
+img{
+    height: 80%;
+    margin-left: 15em;
+}
+
+nav ul{
+    margin-right: 15em;
+    width: 100%;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+nav ul li{
+    margin-right: 5em;
+}
+
+nav a{
+    line-height: 100px;
+    text-align: center;
+    font-size: 1.25em;
+    color: black;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+nav a:hover{
+    color: #BD6F6F;
+}
+
+.contact-button{
+    padding: 0.5em 1em 0.5em 1em;
+    border: 2px solid #BD6F6F;
+    border-radius: 50px;
+    color: #BD6F6F;
+    transition: all 1s ease-in-out;
+}
+.contact-button:hover{
+    color: white;
+    background-color: #BD6F6F;
+}
