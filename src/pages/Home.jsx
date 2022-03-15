@@ -1,5 +1,6 @@
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import Photo from "../images/Photo-of-me.jpg";
 import '../styles/home.css';
 
 
@@ -15,7 +16,7 @@ function Home() {
                         <p>I am a first year student of computer science at langara college, I am passionate about software development and especially web development. If you want to know more about my background let check my resume!</p>
                     </div>
                     <div className="photo-container">
-                        <img alt="Cesar" src="\images\Photo-of-me.jpg"></img>
+                        <img alt="Cesar" src={Photo}></img>
                     </div>
                 </div>
             </main>

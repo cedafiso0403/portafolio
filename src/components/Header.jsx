@@ -1,12 +1,14 @@
 import { Link } from "react-router-dom";
 import '../styles/header.css';
+import logo from "../images/logo_transparent_background.png";
+
 
 
 function Header() {
     return (
         <div>
             <header>
-                <img alt="Personal Logo" src="/images/logo_transparent_background.png"></img>
+                <Link to="/" className="logo"><img alt="Personal Logo" src={logo}></img></Link>
                 <nav>
                     <ul>
                         <li><Link to="/">Home</Link></li>

@@ -2,12 +2,12 @@ import Home from './pages/Home';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Projects from './pages/Projects';
-import { HashRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
 function App() {
   return (
-    <HashRouter base="/">
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div id="content=wrapper">
         <Routes>
           <Route exact path="/" element={<Home />}></Route>
@@ -16,7 +16,7 @@ function App() {
           <Route exact path="/Projects" element={<Projects />}></Route>
         </Routes>
       </div>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 

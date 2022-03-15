@@ -9,9 +9,13 @@ header{
     color: #151515;
 }
 
-img{
-    height: 80%;
+.logo{
+    height: 100%;
     margin-left: 15em;
+}
+
+.logo img{
+    height: 80%;
 }
 
 nav ul{
