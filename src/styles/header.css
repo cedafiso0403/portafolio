@@ -44,7 +44,7 @@ nav a:hover{
     border: 2px solid #41337d;
     border-radius: 50px;
     color: #41337d;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.2s ease-in-out;
 }
 .contact-button:hover{
     color: white;
