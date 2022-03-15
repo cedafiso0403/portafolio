@@ -1,0 +1,28 @@
+main{
+    width: 50%;
+    height: 84vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bio-container{
+    margin-top: 4em;
+    text-align: center;
+}
+.bio-container h3{
+    text-align: center;
+}
+
+.photo-container{
+    margin-top: 4em;
+}
+
+.photo-container img{
+
+    margin: auto;
+    width: 210px;
+    height: 230px;
+    border-radius: 50%;
+}
