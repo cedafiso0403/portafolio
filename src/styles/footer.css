@@ -1,4 +1,12 @@
 footer{
+    padding-top: 1em;
+    color: white;
     height: 5vh;
     background-color: #41337d;
+}
+
+footer p{
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
 }
