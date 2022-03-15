@@ -36,17 +36,17 @@ nav a{
 }
 
 nav a:hover{
-    color: #BD6F6F;
+    color: #41337d;
 }
 
 .contact-button{
     padding: 0.5em 1em 0.5em 1em;
-    border: 2px solid #BD6F6F;
+    border: 2px solid #41337d;
     border-radius: 50px;
-    color: #BD6F6F;
-    transition: all 1s ease-in-out;
+    color: #41337d;
+    transition: all 0.5s ease-in-out;
 }
 .contact-button:hover{
     color: white;
-    background-color: #BD6F6F;
+    background-color: #41337d;
 }

@@ -1,8 +1,7 @@
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 
-
-function Contact() {
+function Projects() {
     return (
         <div>
             <Header />
@@ -12,4 +11,4 @@ function Contact() {
     );
 }
 
-export default Contact;
+export default Projects;
