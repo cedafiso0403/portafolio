@@ -43,7 +43,7 @@ function Resume() {
                             <li>Java</li>
                         </ul>
                     </div>
-                    <h3>Want to check my resume in detail? Feel free to do it!</h3>
+                    <h3>Do you want to check my resume in detail? Feel free to do it!</h3>
                     <a href={ResumeFile} 
                     target="_blank"
                     rel="noreferrer" className="resume-button">Resume</a>
