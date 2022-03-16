@@ -8,9 +8,9 @@ function Home() {
     return (
         <div>
             <Header />
-            <main>
+            <main className='home-main'>
+            <div className="background-image-home"></div>
                 <div className='home-container'>
-                    <div className="background-image-home"></div>
                     <div className="bio-container">
                         <h1>Software developer in training</h1>
                         <p>I am a first year student of computer science at langara college, I am passionate about software development and especially web development. If you want to know more about my background let check my resume!</p>

@@ -10,7 +10,6 @@ import {
 
 function Footer() {
     return (
-        <div>
             <footer>
                 <p>Cesar's Portfolio &copy;</p>
                 <div>
@@ -27,7 +26,6 @@ function Footer() {
 
                 
             </footer>
-        </div>
     );
 }
 
