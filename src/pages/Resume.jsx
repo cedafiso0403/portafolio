@@ -39,7 +39,7 @@ function Resume() {
                             <li>React</li>
                             <li>Node.JS</li>
                             <li>Express</li>
-                            <li>AWS CLoud9</li>
+                            <li>AWS Cloud9</li>
                             <li>Java</li>
                         </ul>
                     </div>
