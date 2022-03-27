@@ -23,3 +23,14 @@ footer a{
     color: white;
     text-decoration: none;
 }
+
+footer .social{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.social-container{
+    display: flex;
+    flex-direction: row;
+}
