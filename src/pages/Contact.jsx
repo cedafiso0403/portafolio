@@ -6,7 +6,7 @@ import '../styles/contactpage.css';
 
 function Contact() {
     return (
-        <div>
+        <>
             <Header />
             <main>
                 <div className="contactpage-container">
@@ -17,7 +17,7 @@ function Contact() {
                 </div>
             </main>
             <Footer />
-        </div>
+        </>
     );
 }
 

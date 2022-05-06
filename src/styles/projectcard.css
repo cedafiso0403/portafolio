@@ -17,6 +17,12 @@
     margin-left: 4em;
     box-shadow: 1px 2px #2E2559;
     text-decoration: none;
+    box-shadow: 0px 8px 24px #41337d;
+    transition: 200ms all ease-in-out;
+}
+
+.project-card-link:hover{
+    box-shadow: 8px 10px 24px #41337d, -8px -4px 24px #41337d;
 }
 
 .project-card{

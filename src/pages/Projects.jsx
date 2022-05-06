@@ -32,7 +32,7 @@ const DATA = [
 
 function Projects() {
     return (
-        <div>
+        <>
             <Header />
             <main>
                 <div className="project-container">
@@ -48,7 +48,7 @@ function Projects() {
                 </div>
             </main>
             <Footer />
-        </div>
+        </>
     );
 }
 
