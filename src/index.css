@@ -23,10 +23,16 @@ body {
   background-color: #110c2e;
 }
 
+#projects-section{
+  height: 100vh;
+  background-color: #110c2e;
+}
+
 #aboutme-section{
   height: 100vh;
   background-color: #110c2e;
 }
+
 
 @keyframes change {
   0%{

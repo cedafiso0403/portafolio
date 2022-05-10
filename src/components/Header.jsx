@@ -11,10 +11,11 @@ function Header() {
             <Link to="/" className="logo"><img alt="Personal Logo" src={logo} height="54px"></img></Link>
             <nav>
                 <ul>
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/Resume">Resume</Link></li>
-                    <li><Link to="/Projects">Projects</Link></li>
-                    <li><Link to="/Contact" className="contact-button">Contact</Link></li>
+                    <li><a href="#welcome-section">Home</a></li>
+                    <li><a href="#services-section">Skills</a></li>
+                    <li><a href="#projects-section">Projects</a></li>
+                    <li><a href="#aboutme-section">About me</a></li>
+                    {/* <li><Link to="/Contact" className="contact-button">Contact</Link></li> */}
                 </ul>
             </nav>
         </header>

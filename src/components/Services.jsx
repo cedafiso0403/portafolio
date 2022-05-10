@@ -23,15 +23,15 @@ function Services() {
                 <div id="container-skills-boxes">
                     <div className='box-container frontend'>
                         <h4><DiReact className='react-symbol' /> Front-End Skills</h4>
-                        <p></p>
+                        <p>Extensive knowledge in HTML/CSS and JavaScript along with modern frameworks such as React.js and Sass. Currently learning flutter!  🤓</p>
                     </div>
                     <div className='box-container backend'>
                         <h4><DiNodejsSmall className='node-symbol' /> Back-End Skills</h4>
-                        <p></p>
+                        <p>Skilled use of Node.js and Express for building the back-end for web applications.</p>
                     </div>
                     <div className='box-container database'>
                         <h4><DiMongodb className='database-symbol' />Database Management</h4>
-                        <p></p>
+                        <p>Experienced in building and manipulating non-relational databases using MongoDB.</p>
                     </div>
                 </div>
             </div>
