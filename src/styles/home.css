@@ -579,3 +579,342 @@
         transform: translateY(0px);
    }
 }
+
+@media only screen and (max-width: 1279px) {
+    .box{
+        left: 8%
+    }
+
+    .home-container{
+        margin-top: 8vh;
+    }
+
+    .bio-container{
+        margin-top: 1em;
+    }
+
+    #container-image-skills h3{
+        font-size: 3em;
+    }
+
+    #container-skills-boxes{
+        width: 50%;
+        min-height: 70vh;
+    }
+
+    #container-skills-boxes .box-container p{
+        font-size: 1.3em;
+    }
+
+    #container-image-skills img{
+        margin-top: 10em;
+    }
+
+    #container-image-skills #code{
+        left: -60%;
+        top: -45%;
+    }
+
+    #container-image-skills #javascript{
+        left: -15%;
+    }
+
+    #container-image-skills #github{
+        left: 50%;
+    }
+
+    #container-image-skills #nodejs{
+        left: 160px;
+        top: -60%;
+    }
+
+    #line-purple{
+        top: -1%;
+        height: 5%;
+    }
+
+    #line-purple-horizontal{
+        top: -1%;
+    }
+    
+    #line-purple2{
+        height: 15%;
+        top: calc(-1% - 2px);
+    }
+    
+    #project-container{
+        flex-wrap: wrap;
+        width: 80%;
+        margin-bottom: 5%;
+    }
+
+    #project-container a{
+        width: 45%;
+        margin-bottom: 1em;
+        min-height: 20vh;
+    }
+
+    #project-container a div{
+        min-height: 20vh;
+    }
+
+    #projects-section h4{
+        margin-bottom: 0.75em;
+    }
+
+    #projects-section h3{
+        font-size: 3.5em;
+    }
+
+    #line-white{
+        height: 7%;
+        top: calc(300vh - 7%);
+    }
+
+    #aboutme-container{
+        flex-direction: column;
+    }
+
+    #boxes-container{
+        width: 100%;
+    }
+
+    #img-container{
+        width: 100%;
+    }
+
+    #img-container img {
+        width: 20%;
+        margin: auto;
+    }
+
+    #line-white2{
+        height: 5%;
+    }
+    #message1{
+        margin-top: 0.75em;
+        font-size: 2.5em;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .logo{
+        display: none;
+    }
+
+    .header{
+        width: 100%;
+        padding-left: 1em;
+        justify-content: center;
+    }
+
+    nav ul{
+        width: 80%;
+        margin-left: 1em;
+    }
+
+    nav ul li{
+        margin-right: 1.5em;
+        margin-left: 1.5em;
+        font-size: 0.8em;
+        text-align: center;
+    }
+
+    #fullstack-box{
+        left: 50%;
+        top: -90vh;
+        width: 125px;
+    }
+
+    #techguy-box{
+        width: 125px;
+    }
+
+    .box{
+        font-size: 1.15em;
+        width: 125px;
+    }
+
+    .photo-container img{
+        width: 150px;
+        height: 150px;
+    }
+
+    #photo-container-background{
+        width: 150px;
+        height: 150px;
+    }
+
+    .bio-container h1 {
+        font-size: 1em;
+    }
+
+    #container-skills{
+        flex-direction: column;
+        height: 80%;
+        justify-content: center;
+    }
+
+    #container-image-skills{
+        width: 90%;
+        margin-bottom: -1em;
+    }
+
+    #container-image-skills h2{
+        font-size: 1.5em;
+    }
+
+    #container-image-skills h3{
+        font-size: 2em;
+    }
+
+    #container-image-skills img{
+        margin-top: 2em;
+        width: 150px;
+        height: 150px;
+    }
+
+    #container-image-skills #github{
+        font-size: 3em;
+        left: 60%;
+    }
+
+    #container-image-skills #code{
+        font-size: 3em;
+        left: -25%;
+    }
+
+    #container-image-skills #javascript{
+        font-size: 3em;
+        left: 5%;
+    }
+
+    #container-skills-boxes .box-container p{
+        font-size: 1em;
+    }
+
+    #container-skills-boxes .box-container h4{
+        font-size: 1em;
+    }
+
+    #container-image-skills #nodejs{
+        font-size: 4em;
+        top: -40%;
+        left: 20vw;
+    }
+
+    #container-skills-boxes{
+        margin-top: 1em;
+        width: 100%;
+    }
+
+    #line-yellow{
+        height: 25px;
+    }
+
+    #line-yellow2{
+        margin-bottom: -1em;
+        height: 25px;
+    }
+
+    #line-purple{
+        display: none;
+    }
+
+    #line-purple-horizontal{
+        display: none;
+    }
+
+    #line-purple2{
+        height: 5%;
+        top: 11.5%;
+    }
+
+    #line-white{
+        display: none;
+    }
+
+    #line-purple3{
+        display: none;
+    }
+
+    #projects-section h3{
+        font-size: 1.5em;
+    }
+
+    #projects-section h4{
+        font-size: 1em;
+        margin-bottom: 2em;
+    }
+
+    #aboutme-section h2{
+        font-size: 1em;
+    }
+
+    #aboutme-section h3{
+        font-size: 1.5em;
+    }
+
+    #education-box{
+        width: 100%;
+    }
+
+    #education-box h4{
+        font-size: 1.45em;
+    }
+
+    #education-box p{
+        font-size: 1em;
+    }
+
+    #work-box{
+        width: 100%;
+    }
+
+    #work-box h4{
+        font-size: 1.45em;
+    }
+
+    #work-box p{
+        font-size: 1em;
+    }
+
+    #hobbys-box{
+        width: 100%;
+    }
+
+    #hobbys-box h4{
+        font-size: 1.45em;
+    }
+
+    #hobbys-box p{
+        font-size: 1em;
+    }
+
+    #goals-box{
+        width: 100%;
+    }
+
+    #goals-box h4{
+        font-size: 1.45em;
+    }
+
+    #goals-box p{
+        font-size: 1em;
+    }
+    
+      
+    #message1 {
+        font-size: 1.25em;
+        width: 90%;
+        margin: auto;
+        margin-top: 1em;
+    }
+
+    #message2 {
+        font-size: 1em;
+        width: 90%;
+        margin: auto;
+        margin-top: 1em;
+      }
+}

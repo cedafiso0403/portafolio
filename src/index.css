@@ -51,3 +51,20 @@ body {
     background-position: 0 50%;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  #services-section{
+    height: 160vh;
+  }
+
+  #projects-section{
+    height: 110vh;
+    background-color: #110c2e;
+  }
+
+  #aboutme-section{
+    height: 165vh;
+    background-color: #110c2e;
+  }
+
+}
