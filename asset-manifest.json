@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f220bf0b.css",
+    "main.js": "/portfolio/static/js/main.d523fb40.js",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.69d6295c3370eeec293b.pdf",
+    "static/media/Picture1.png": "/portfolio/static/media/Picture1.791ddced1d29c62cd4e9.png",
+    "static/media/Picture2.png": "/portfolio/static/media/Picture2.488e283e3e79e427aac4.png",
+    "static/media/Picture3.png": "/portfolio/static/media/Picture3.b86e267424041b096790.png",
+    "static/media/Kaisel2.avif": "/portfolio/static/media/Kaisel2.f446d8313e7114cce7df.avif",
+    "static/media/Transfullanos.avif": "/portfolio/static/media/Transfullanos.f3530446a078178af638.avif",
+    "static/media/Expensify-app.avif": "/portfolio/static/media/Expensify-app.116fa4a29237cf8b2d21.avif",
+    "static/media/logo_transparent_background.webp": "/portfolio/static/media/logo_transparent_background.91ffcbe0320c784a78b3.webp",
+    "index.html": "/portfolio/index.html",
+    "main.f220bf0b.css.map": "/portfolio/static/css/main.f220bf0b.css.map",
+    "main.d523fb40.js.map": "/portfolio/static/js/main.d523fb40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f220bf0b.css",
+    "static/js/main.d523fb40.js"
+  ]
+}
